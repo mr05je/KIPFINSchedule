@@ -1,4 +1,6 @@
-# KIPFINSchedule-Dev 
+# KIPFINSchedule
+
+# ❗❗❗OFFICIAL CLOSED AND NOT SUPPORTED❗❗❗
 
 ## A college bot for students that parses an audience file and sends the audiences, teachers, and pair time in one message
 
