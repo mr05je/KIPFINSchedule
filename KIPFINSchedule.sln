@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIPFINSchedule.Api", "KIPFINSchedule.Api\KIPFINSchedule.Api.csproj", "{456772B6-7370-4FCD-A48F-0E54B971FAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIPFINSchedule.Core", "KIPFINSchedule.Core\KIPFINSchedule.Core.csproj", "{EAC5CB06-DAAE-42FF-A255-9E86DA1EEFB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIPFINSchedule.Database", "KIPFINSchedule.Database\KIPFINSchedule.Database.csproj", "{A2A8973C-314F-4DCD-B2D6-8796B3BAE34A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456772B6-7370-4FCD-A48F-0E54B971FAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456772B6-7370-4FCD-A48F-0E54B971FAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456772B6-7370-4FCD-A48F-0E54B971FAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456772B6-7370-4FCD-A48F-0E54B971FAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC5CB06-DAAE-42FF-A255-9E86DA1EEFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC5CB06-DAAE-42FF-A255-9E86DA1EEFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC5CB06-DAAE-42FF-A255-9E86DA1EEFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC5CB06-DAAE-42FF-A255-9E86DA1EEFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A8973C-314F-4DCD-B2D6-8796B3BAE34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A8973C-314F-4DCD-B2D6-8796B3BAE34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A8973C-314F-4DCD-B2D6-8796B3BAE34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A8973C-314F-4DCD-B2D6-8796B3BAE34A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
